@@ -2,7 +2,7 @@
 Bienvenida/o al repositorio oficial de Ayün Nahuen, un espacio dedicado al bienestar integral de la mujer a través de masajes terapéuticos, rituales de relajación y momentos de conexión interior.
 
 🌿 ¿Qué es Ayün Nahuen?
-Ayün Nahuen significa “fuerza del corazón” en mapudungun. Nos especializamos en ofrecer servicios terapéuticos personalizados en un ambiente íntimo y armónico, ideal para el descanso, el cuidado del cuerpo y la renovación del espíritu.
+Ayün Nahuen significa “fuerza y Energía” en mapudungun. Nos especializamos en ofrecer servicios terapéuticos personalizados en un ambiente íntimo y armónico, ideal para el descanso, el cuidado del cuerpo y la renovación del espíritu.
 
 💆‍♀️ Servicios Ofrecidos
 Masajes relajantes
@@ -28,4 +28,5 @@ Información de servicios
 
 Formularios de reserva
 
-Guía de instalación y despliegue (si aplica)
+🧘‍♀️ Cierra los ojos, respira profundo...
+Ayün Nahuen es un regalo para tu cuerpo y alma.
